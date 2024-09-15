@@ -1,0 +1,9 @@
+prints a formatted string|printf
+reads a line from the specified stream|fgets
+compares two strings|strcmp
+copies memory area|memcpy
+returns the current calendar time|time
+generates a pseudo-random number|rand
+opens the file specified by filename|fopen
+closes the file associated with the stream|fclose
+finds the first occurrence of any character in a set|strcspn
